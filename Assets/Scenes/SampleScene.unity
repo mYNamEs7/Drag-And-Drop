@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 51593358}
   - component: {fileID: 51593360}
   - component: {fileID: 51593361}
+  - component: {fileID: 51593362}
   m_Layer: 5
   m_Name: Cell (4)
   m_TagString: Untagged
@@ -265,6 +266,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &51593362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 51593355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &130838702
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,6 +291,7 @@ GameObject:
   - component: {fileID: 130838705}
   - component: {fileID: 130838707}
   - component: {fileID: 130838708}
+  - component: {fileID: 130838709}
   m_Layer: 5
   m_Name: Cell (9)
   m_TagString: Untagged
@@ -407,6 +421,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &130838709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130838702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &332919274
 GameObject:
   m_ObjectHideFlags: 0
@@ -420,6 +446,7 @@ GameObject:
   - component: {fileID: 332919277}
   - component: {fileID: 332919279}
   - component: {fileID: 332919280}
+  - component: {fileID: 332919281}
   m_Layer: 5
   m_Name: Cell (7)
   m_TagString: Untagged
@@ -549,6 +576,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &332919281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332919274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &465052431
 GameObject:
   m_ObjectHideFlags: 0
@@ -696,6 +735,7 @@ GameObject:
   - component: {fileID: 484961124}
   - component: {fileID: 484961126}
   - component: {fileID: 484961127}
+  - component: {fileID: 484961128}
   m_Layer: 5
   m_Name: Cell (2)
   m_TagString: Untagged
@@ -825,6 +865,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &484961128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 484961121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &556993480
 GameObject:
   m_ObjectHideFlags: 0
@@ -838,6 +890,7 @@ GameObject:
   - component: {fileID: 556993483}
   - component: {fileID: 556993485}
   - component: {fileID: 556993486}
+  - component: {fileID: 556993487}
   m_Layer: 5
   m_Name: Cell (1)
   m_TagString: Untagged
@@ -967,6 +1020,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &556993487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 556993480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1074,6 +1139,7 @@ GameObject:
   - component: {fileID: 795322789}
   - component: {fileID: 795322791}
   - component: {fileID: 795322792}
+  - component: {fileID: 795322793}
   m_Layer: 5
   m_Name: Cell (3)
   m_TagString: Untagged
@@ -1203,6 +1269,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &795322793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795322786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &896338912
 GameObject:
   m_ObjectHideFlags: 0
@@ -1216,6 +1294,7 @@ GameObject:
   - component: {fileID: 896338915}
   - component: {fileID: 896338917}
   - component: {fileID: 896338918}
+  - component: {fileID: 896338919}
   m_Layer: 5
   m_Name: Cell (8)
   m_TagString: Untagged
@@ -1345,6 +1424,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &896338919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 896338912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &943526013
 GameObject:
   m_ObjectHideFlags: 0
@@ -1357,6 +1448,7 @@ GameObject:
   - component: {fileID: 943526018}
   - component: {fileID: 943526017}
   - component: {fileID: 943526016}
+  - component: {fileID: 943526019}
   m_Layer: 5
   m_Name: Grid Manager
   m_TagString: Untagged
@@ -1454,6 +1546,30 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &943526019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 943526013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae93c64013d6ea346b1f1f834e3fd6a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cells:
+  - {fileID: 556993487}
+  - {fileID: 484961128}
+  - {fileID: 795322793}
+  - {fileID: 51593362}
+  - {fileID: 1593602758}
+  - {fileID: 986790994}
+  - {fileID: 332919281}
+  - {fileID: 896338919}
+  - {fileID: 130838709}
+  chipPrefab: {fileID: 7091143629847807157, guid: e8d7973892ee27f44bc577f397c59f96, type: 3}
+  chipsParent: {fileID: 2106340087}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1559,6 +1675,7 @@ GameObject:
   - component: {fileID: 986790990}
   - component: {fileID: 986790992}
   - component: {fileID: 986790993}
+  - component: {fileID: 986790994}
   m_Layer: 5
   m_Name: Cell (6)
   m_TagString: Untagged
@@ -1688,6 +1805,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &986790994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986790987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1360443487
 GameObject:
   m_ObjectHideFlags: 0
@@ -1770,7 +1899,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1360443490}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 943526019}
+        m_TargetAssemblyTypeName: GridManager, Assembly-CSharp
+        m_MethodName: Spawn
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1360443490
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1822,6 +1963,7 @@ GameObject:
   - component: {fileID: 1593602754}
   - component: {fileID: 1593602756}
   - component: {fileID: 1593602757}
+  - component: {fileID: 1593602758}
   m_Layer: 5
   m_Name: Cell (5)
   m_TagString: Untagged
@@ -1951,6 +2093,18 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &1593602758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593602751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fac4ba801f13b408be0297b207ea9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1893386455
 GameObject:
   m_ObjectHideFlags: 0

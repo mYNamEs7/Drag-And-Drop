@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8406648791553032695}
   - component: {fileID: 3358619815533307411}
   - component: {fileID: 5590445198627689577}
+  - component: {fileID: 7091143629847807157}
   m_Layer: 5
   m_Name: Chip
   m_TagString: Untagged
@@ -143,6 +144,20 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 10
+--- !u!114 &7091143629847807157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 200640056994204100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc633d06926927848844146b44487195, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 1
+  levelText: {fileID: 3750585593376771243}
 --- !u!1 &6466427613695813006
 GameObject:
   m_ObjectHideFlags: 0
